@@ -12,6 +12,6 @@ FILENAME =restaurant_small.txt
 
 >>>recommend(FILENAME, Price, cuisine)
 output :list name of the restaurant
-eg:
+test case
 >>>recommend(FILENAME, "400", ["Continental"])
 [('Pizza Hut', '4')]
