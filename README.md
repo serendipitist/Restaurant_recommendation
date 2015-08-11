@@ -9,7 +9,8 @@ cuisine,
 restaurant are grouped based on price , rating and cuisine.
 How to run the program :python restaurant.py
 FILENAME =restaurant_small.txt
-
+cuisne ->set of cuisines you are looking
+price->100, 200,300 (your budget)
 >>>recommend(FILENAME, Price, cuisine)
 output :list names of the restaurant with rating
 test case
