@@ -1,0 +1,47 @@
+Biryani Hut
+3
+100
+North Indian
+
+Swathi Restaurant
+4
+300
+North Indian,South Indian
+
+Priyadarshini
+5
+200
+North Indian,South Indian
+
+Chowmein
+3
+300
+Chinese
+
+Pizza Hut
+4
+400
+Continental
+
+Chopsticks
+4
+300
+Japanese
+
+Mast Kalandar
+3.5
+200
+North Indian
+
+Udupi Upahar
+3
+100
+Coffee/Tea,South Indian
+
+Jalpaan
+4
+300
+North Indian
+
+
+
